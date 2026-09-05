@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/132-145-141-202.sslip.io.ico",
     "slug": "screenah",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1392,
-    "timeDay": 1392,
-    "timeWeek": 1392,
-    "timeMonth": 1392,
-    "timeYear": 1392,
-    "dailyMinutesDown": {}
+    "uptime": "34.77%",
+    "uptimeDay": "34.77%",
+    "uptimeWeek": "34.77%",
+    "uptimeMonth": "34.77%",
+    "uptimeYear": "34.77%",
+    "time": 970,
+    "timeDay": 970,
+    "timeWeek": 970,
+    "timeMonth": 970,
+    "timeYear": 970,
+    "dailyMinutesDown": {
+      "2026-09-05": 238
+    }
   }
 ]
